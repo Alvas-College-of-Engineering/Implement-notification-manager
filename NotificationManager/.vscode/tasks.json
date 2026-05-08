@@ -1,0 +1,4 @@
+{"version":"2.0.0","tasks":[
+  {"label":"Build","type":"shell","command":"mvn clean package -DskipTests","group":{"kind":"build","isDefault":true}},
+  {"label":"Run on Tomcat","type":"shell","command":"mvn tomcat7:run","group":"build","presentation":{"reveal":"always","panel":"new"}}
+]}

@@ -1,0 +1,4 @@
+com\notificationmanager\servlet\NotificationServletTest.class
+com\notificationmanager\dao\NotificationDAOTest.class
+com\notificationmanager\model\NotificationTest.class
+com\notificationmanager\util\DBConnectionTest.class

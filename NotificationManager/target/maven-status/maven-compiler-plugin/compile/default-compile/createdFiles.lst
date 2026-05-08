@@ -1,0 +1,6 @@
+com\notificationmanager\model\Notification$Priority.class
+com\notificationmanager\servlet\NotificationServlet.class
+com\notificationmanager\model\Notification.class
+com\notificationmanager\util\DBConnection.class
+com\notificationmanager\dao\NotificationDAO.class
+com\notificationmanager\model\Notification$Type.class
